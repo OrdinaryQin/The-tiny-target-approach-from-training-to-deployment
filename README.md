@@ -1,1 +1,2 @@
 # GCN
+About the GCN
